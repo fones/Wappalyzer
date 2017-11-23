@@ -11045,6 +11045,17 @@
 			"website": "https://akaunting.com"
 		}
 	},
+	"Shoper": {
+		"cats": [
+			"6"
+		],
+		"html": [
+			"<div [^>]+shoper-foot",
+			"Sklep internetowy Shoper.pl"
+		],
+		"icon": "shoper.svg",
+		"website": "https://www.shoper.pl/"
+	},
 	"categories": {
 		"1": {
 			"name": "CMS",
